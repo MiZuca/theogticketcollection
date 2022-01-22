@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD35060B5af6464E7EB49D8E653c3875cF02047B5",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd35060b5af6464e7eb49d8e653c3875cf02047b5",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The OG Ticket Collection",
+  "SYMBOL": "TOTC.TLC",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-luckies-v5",
+  "SHOW_BACKGROUND": true
+}
